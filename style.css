@@ -3,19 +3,21 @@
     padding: 0;
 }
 .poppins-regular {
-    font-family: "Poppins", sans-serif;
+    font-family: "arial
+    ", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
  
   .poppins-bold {
-    font-family: "Poppins", sans-serif;
+    font-family: "arial
+    ", sans-serif;
     font-weight: 700;
     font-style: normal;
   }
 
   body{
-    font-family: "Poppins", sans-serif;
+    font-family: "arial", sans-serif;
   }
  
 .cabecalho{
@@ -78,7 +80,7 @@ padding: 0 15px;
 }
 .estudante-todos{
     display: grid;
-grid-template-columns: 40% 65% 30%;
+grid-template-columns: 05% 35% 65%;
 }
 .estudante{
     background-color: #24d629;
